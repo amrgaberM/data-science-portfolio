@@ -6,20 +6,15 @@ Welcome to my Data Science Portfolio. I’m **Amr Gaber**, a data practitioner p
 
 ## 📌 Featured Projects
 
-### 🔹 [Customer Churn Prediction](./customer-churn-ml/)
-A supervised machine learning project focused on predicting customer churn using classification techniques such as Random Forest. The workflow includes data preprocessing, feature engineering, model training, and evaluation.
+### 🔹 [injury-prediction-prevention-ml](https://github.com/amrgaberM/injury-prediction-prevention-ml)
+Injury Prediction and Prevention is a sophisticated web application designed to help athletes and coaches reduce sports injury risks through advanced machine learning and tailored recommendations. Powered by an ensemble of RandomForest and XGBoost models, it predicts injury risk levels (Low, Medium, High) with ~92% accuracy, analyzing factors like training intensity, fatigue, and injury history. The app features a Cohere-powered chatbot for injury-related queries and a sleek web interface for seamless interaction, making it an essential tool for sports professionals.
 
-### 🔹 [House Price Estimation (Streamlit App)](./house-price-streamlit/)
-An interactive application built with Streamlit that predicts house prices based on user-inputted property features. The app is designed for ease of use and is suitable for testing with real-world data.
-
-### 🔹 [News Category Classification (BERT)](./news-classifier-bert/)
-A natural language processing project utilizing a fine-tuned BERT model to classify news articles into predefined categories. The project includes model training, evaluation, and visualization of classification performance.
 
 ---
 
 ## 🧪 Mini Projects
 
-The [`data-science-mini-projects/`](https://github.com/amrgaberM/data-science-mini-project) directory contains compact yet insightful explorations that demonstrate core data science techniques:
+The [`data-science-mini-projects/`](https://github.com/amrgaberM/data-science-mini-projects) directory contains compact yet insightful explorations that demonstrate core data science techniques:
 
 - [zomato-eda-analysis](https://github.com/amrgaberM/data-science-mini-projects/tree/main/zomato-eda-analysis): This project analyzes Zomato restaurant data to explore ratings, costs, and service types using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 - [Covid-19-EDA](https://github.com/amrgaberM/data-science-mini-projects/tree/main/Covid-19-EDA): This project analyzes and visualizes COVID-19 data to explore the spread, impact, and trends of the pandemic across different countries and regions.
